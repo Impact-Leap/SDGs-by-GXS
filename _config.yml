@@ -21,6 +21,18 @@ collections:
   goals:
     output: true
 
+# Languages
+# ---------
+# This tells sdg-build to perform "translated builds" for each of the specified
+# languages. Each build is in its own subfolder - one for each language.
+languages:
+  - en
+  - es
+  - ru
+  - fr
+  - vn
+  - zh-Hans
+
 # Tell Jekyll to use the Remote Theme plugin.
 plugins:
   - jekyll-remote-theme

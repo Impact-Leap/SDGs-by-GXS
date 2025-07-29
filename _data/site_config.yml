@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: Vietnam
+  adjective: Vietnamese
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
@@ -56,9 +56,9 @@ disclaimer:
   message: ''
   hidden: false
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: contact@p4cng.biz.vn
+  suggestions: contact@p4cng.biz.vn
+  functional: contact@p4cng.biz.vn
 empty_metadata_placeholder: ''
 empty_metadata_placeholder_sources: ''
 environment: staging
@@ -66,9 +66,9 @@ footer_language_toggle: none
 footer_menu:
   - path: /contact-us
     translation_key: menu.contact_us
-  - path: 'https://twitter.com/MyTwitterAccount'
+  - path: 'https://www.linkedin.com/company/chuyendoixanh'
     translation_key: general.twitter
-  - path: 'https://facebook.com/MyFacebookAccount'
+  - path: 'https://www.facebook.com/chuyendoixanh/'
     translation_key: general.facebook
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
@@ -79,10 +79,9 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
+  - title: GXS
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+      Mạng lưới Chuyển đổi Xanh và Phát triển bền vững 
     include: ''
     button_label: Read more
     button_link: 'https://example.com'
@@ -93,7 +92,7 @@ frontpage_cards:
       interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
     include: ''
     button_label: Read more
-    button_link: 'https://example.com'
+    button_link: 'https://phattrienbenvung.net/'
     rule_color: ''
 frontpage_goals_grid:
   title: frontpage.heading_short
@@ -144,6 +143,9 @@ indicator_tabs:
 languages:
   - en
   - es
+  - vn
+  - ru
+  - fr
 languages_public: []
 logos: []
 map_layers: []
